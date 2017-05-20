@@ -1,6 +1,6 @@
 Tell me about the last technical blog post you read and what, if anything, you learned from it.
 
-Tell me about you, how you got into coding/tech, 
+Tell me about you, how you got into coding/tech,
 
 Tell me about some new piece of technology you're excited about.
 
@@ -30,7 +30,7 @@ What is TDD? Tell me some pros and cons.
 
 What’s the difference between unit tests and integration tests?
 
-What are some cons of integration testing? 
+What are some cons of integration testing?
 
 What other kinds of tests, or categories/ways of testing do you know about?
 
@@ -43,3 +43,11 @@ What are some security concerns when building a Rails project?
 Why do people say “HTTP is stateless”?
 
 Explain how a database works as if I'm a 5 year old kid.
+
+How would you design a URL shortener?   
+
+How would you write a TCP server?
+
+Describe how traceroute works on the wire level.
+
+Describe how inheritance works in [language].    
